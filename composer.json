@@ -1,0 +1,21 @@
+{
+    "name": "taalendigitaal/bootstrap-lightbox",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "dist/ekko-lightbox.js"
+            ],
+            "styles": [
+                "dist/ekko-lightbox.css"
+            ],
+            "files": [
+                "dist/ekko-lightbox.min.js",
+                "dist/ekko-lightbox.min.css"
+            ]
+        }
+    }
+}
